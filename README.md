@@ -1,10 +1,10 @@
-# CV-HTML
+# CV-HTML 📜
 
-Just an easy to do cv written in HTML
+Just an easy to do cv written in HTML ✍🏾
 It have 3 pages
 
-<h2>How to see it?</h2>
-You can display it with this link : 
+<h2>How to display it?</h2>
+You can display it with this link : https://iamwill221.github.io/CV-HTML/
 
 <h2>Index</h2>
 
@@ -17,3 +17,5 @@ You can display it with this link :
 <h2>Mail page</h2>
 
 ![mail](https://user-images.githubusercontent.com/103327500/232624157-59445b32-2a75-4da8-bdab-2101a3343f1a.png)
+
+Feel free to give suggestions! Thanks! 🥰👌
